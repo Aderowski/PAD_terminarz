@@ -1,0 +1,17 @@
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.csproj.AssemblyReference.cache
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.Logowanie.resources
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.Properties.Resources.resources
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.Rejestracja.resources
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.csproj.GenerateResource.cache
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.csproj.CoreCompileInputs.cache
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\bin\Debug\Projekt_PAD_1.exe.config
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\bin\Debug\Projekt_PAD_1.exe
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\bin\Debug\Projekt_PAD_1.pdb
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\bin\Debug\AltoControls.dll
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\bin\Debug\MaterialSkin.dll
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.csproj.CopyComplete
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.exe
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.pdb
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.Logowanie1.resources
+C:\Users\4ftg\Source\Repos\Projekt_PAD_1\Projekt_PAD_1\obj\Debug\Projekt_PAD_1.LogowanieiRejstracja.resources
